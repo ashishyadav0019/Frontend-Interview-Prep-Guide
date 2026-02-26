@@ -1,7 +1,4 @@
 # Pragmatic UI Problems Catalog
-
-- Source file: `pragmaticUI.json`
-- Dataset key: `data.problems.nodes`
 - Total items: **100**
 
 ## Table of Contents
@@ -111,19 +108,8 @@
 
 ## 1. Flatten I
 
-- Source Number: 1
-- Slug: `flatten-arrays-recursively-and-iteratively`
-- Date: `2024-02-26T02:39:16`
-- Difficulty: Easy
-- Premium: No
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟢 Easy
 - Video Link: https://www.youtube.com/embed/UV9Lp-3uwwg?si=sIkEur5qGudwyPgh
-- Study Plan: 2 weeks, 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook, Amazon, Google, Robinhood, Zillow, Airbnb, OpenAI, Microsoft, Netflix
-- Category: Array
-- Type: Coding
 
 ### Content
 
@@ -146,19 +132,8 @@ Iterative Output: [1, 2, 3, 4, 5, 6]</code></pre>
 
 ## 2. Histogram
 
-- Source Number: 2
-- Slug: `histogram`
-- Date: `2024-03-16T17:16:17`
-- Difficulty: Medium
-- Premium: No
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/jSzkUAe4YBc
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Netflix
-- Category: App Design
-- Type: Vanilla
 
 ### Content
 
@@ -187,19 +162,8 @@ Histogram:
 
 ## 3. Filtering Matching JSON
 
-- Source Number: 3
-- Slug: `filtering-matching-json`
-- Date: `2024-03-07T16:21:53`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/8xOAFXTriUk
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Robinhood, Apple
-- Category: JSON
-- Type: Coding
 
 ### Content
 
@@ -224,19 +188,8 @@ match: { position: 'Product Manager', level: 'Entry' }
 
 ## 4. Improve a function
 
-- Source Number: 4
-- Slug: `improve-a-function`
-- Date: `2024-03-14T16:02:57`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/VClupMy84gU
-- Study Plan: 2 weeks, 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Array
-- Type: Coding
 
 ### Content
 
@@ -273,19 +226,8 @@ const excludes = [
 
 ## 5. Throttle
 
-- Source Number: 5
-- Slug: `throttle`
-- Date: `2024-03-09T00:15:44`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/xf58_woO1oc
-- Study Plan: 2 weeks, 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook, Amazon, Google, Robinhood, Zillow, Airbnb, OpenAI, Microsoft, Netflix, Apple, LinkedIn, Stripe, ClickUp, PayPal, Snap, Vimeo, Adobe, TikTok
-- Category: Javascript
-- Type: Coding
 
 ### Content
 
@@ -307,19 +249,7 @@ const excludes = [
 
 ## 6. Total Salaries
 
-- Source Number: 6
-- Slug: `total-salaries`
-- Date: `2024-03-08T20:51:10`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: JSON
-- Type: Coding
+- Difficulty: 🔴 Hard
 
 ### Content
 
@@ -354,19 +284,7 @@ console.log(totalSalaries); // Output: 7700
 
 ## 7. ClassNames
 
-- Source Number: 7
-- Slug: `classnames`
-- Date: `2024-03-15T21:28:11`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Array
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -390,19 +308,7 @@ const buttonClasses = classnames(
 
 ## 8. Array Methods
 
-- Source Number: 8
-- Slug: `custom-javascript-array-methods-mymap-myfilter-myreduce`
-- Date: `2024-03-12T00:13:31`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Amazon, Robinhood, Zillow, Netflix, LinkedIn, Stripe, Snap, Vimeo
-- Category: Array
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -420,19 +326,8 @@ const buttonClasses = classnames(
 
 ## 9. Build Promise
 
-- Source Number: 9
-- Slug: `build-custom-promise-javascript`
-- Date: `2024-02-19T21:03:30`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🔴 Hard
 - Video Link: https://www.youtube.com/embed/w9plxTCGAVE
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Google, Robinhood, Zillow, Netflix
-- Category: Javascript
-- Type: Coding
 
 ### Content
 
@@ -450,19 +345,8 @@ promise.then(value =&gt; console.log(value));</code></pre>
 
 ## 10. Find Corresponding Node
 
-- Source Number: 10
-- Slug: `find-corresponding-node`
-- Date: `2024-03-07T00:34:02`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟢 Easy
 - Video Link: https://www.youtube.com/embed/ElHeF2zY570
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Array
-- Type: Coding
 
 ### Content
 
@@ -474,19 +358,7 @@ promise.then(value =&gt; console.log(value));</code></pre>
 
 ## 11. Create DOM
 
-- Source Number: 11
-- Slug: `create-dom`
-- Date: `2024-03-12T16:49:03`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: DOM API
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -521,19 +393,7 @@ document.body.appendChild(dom);
 
 ## 12. Phone Number Parser
 
-- Source Number: 12
-- Slug: `build-phone-number-parser`
-- Date: `2024-03-10T18:13:33`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Stripe
-- Category: Javascript
-- Type: React
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -555,19 +415,7 @@ document.body.appendChild(dom);
 
 ## 13. Deep Clone
 
-- Source Number: 13
-- Slug: `javascript-deep-clone-frontend-interview-question`
-- Date: `2024-03-10T18:32:59`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -600,19 +448,7 @@ console.log(clonedObj.role); // Output: 'bar'</code></pre>
 
 ## 14. Event Emitter
 
-- Source Number: 14
-- Slug: `javascript-event-emitter-guide`
-- Date: `2024-03-12T15:07:17`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -644,19 +480,7 @@ console.log(clonedObj.role); // Output: 'bar'</code></pre>
 
 ## 15. Event Target
 
-- Source Number: 15
-- Slug: `eventtarget`
-- Date: `2024-03-12T15:02:41`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -680,19 +504,7 @@ et.dispatchEvent('click'); // No output, as the listener has been removed.</code
 
 ## 16. Traverse DOM
 
-- Source Number: 16
-- Slug: `traverse-dom`
-- Date: `2024-03-15T19:15:46`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 2 weeks, 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Amazon
-- Category: DOM API
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -718,19 +530,7 @@ Output: [div, p (Paragraph 1), div, p (Paragraph 2)]
 
 ## 17. Flatten II
 
-- Source Number: 17
-- Slug: `flatten-array-with-depth`
-- Date: `2024-03-09T18:45:52`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Array
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -751,19 +551,8 @@ Output: [div, p (Paragraph 1), div, p (Paragraph 2)]
 
 ## 18. Intersection Observer
 
-- Source Number: 18
-- Slug: `intersection-observer`
-- Date: `2024-03-15T23:56:44`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/VCkOoDk4a80?si=qhc3jCsMK3b6vgf2
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Javascript
-- Type: Vanilla
 
 ### Content
 
@@ -792,19 +581,7 @@ observer.observe(section2);
 
 ## 19. Memoize I
 
-- Source Number: 19
-- Slug: `memoize-i`
-- Date: `2024-03-14T15:16:28`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -829,19 +606,7 @@ observer.observe(section2);
 
 ## 20. Masonry Grid
 
-- Source Number: 20
-- Slug: `masonry-grid`
-- Date: `2024-03-16T22:32:07`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: App Design
-- Type: Vanilla
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -871,19 +636,7 @@ observer.observe(section2);
 
 ## 21. Navigation
 
-- Source Number: 21
-- Slug: `navigation`
-- Date: `2024-03-16T23:10:03`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: App Design
-- Type: Vanilla
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -927,19 +680,8 @@ observer.observe(section2);
 
 ## 22. Next Right Sibling
 
-- Source Number: 22
-- Slug: `next-right-sibling`
-- Date: `2024-03-14T16:28:45`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟢 Easy
 - Video Link: https://www.youtube.com/embed/46KnJk8eZDQ
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Microsoft
-- Category: DOM API
-- Type: Coding
 
 ### Content
 
@@ -957,19 +699,8 @@ observer.observe(section2);
 
 ## 23. Node Store
 
-- Source Number: 23
-- Slug: `node-store`
-- Date: `2024-03-14T23:33:05`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟢 Easy
 - Video Link: https://www.youtube.com/embed/oNYXqbwaQHI
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Array
-- Type: Coding
 
 ### Content
 
@@ -995,19 +726,8 @@ console.log(store.get(node2)); // Expected output: 2</code></pre>
 
 ## 24. Parser for Rich Text Editor
 
-- Source Number: 24
-- Slug: `parser-for-rich-text-editor`
-- Date: `2024-03-15T16:16:31`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🔴 Hard
 - Video Link: https://www.youtube.com/watch?v=o89VYBvOAmo
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: Algorithmic
-- Type: Coding
 
 ### Content
 
@@ -1025,19 +745,7 @@ Output: '&lt;i&gt;Hel&lt;/i&gt;l&lt;b&gt;o, w&lt;u&gt;orl&lt;/u&gt;&lt;/b&gt;&lt
 
 ## 25. Promisify Any Function
 
-- Source Number: 25
-- Slug: `promisify-any-function`
-- Date: `2024-03-13T15:11:53`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -1056,19 +764,7 @@ Output: '&lt;i&gt;Hel&lt;/i&gt;l&lt;b&gt;o, w&lt;u&gt;orl&lt;/u&gt;&lt;/b&gt;&lt
 
 ## 26. Skill Endorsements
 
-- Source Number: 26
-- Slug: `aggregate-skill-endorsements-javascript-guide`
-- Date: `2024-03-08T22:47:21`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: LinkedIn
-- Category: JSON
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -1102,19 +798,7 @@ const skillSummaries = aggregateSkillEndorsements(endorsements);
 
 ## 27. Testing Framework
 
-- Source Number: 27
-- Slug: `testing-framework`
-- Date: `2024-03-14T14:44:06`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: App Design
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1167,19 +851,8 @@ failed running test suite Hello world on test case input is as expected with err
 
 ## 28. Text Highlighter
 
-- Source Number: 28
-- Slug: `text-highlighter`
-- Date: `2024-03-15T15:34:58`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟢 Easy
 - Video Link: https://www.youtube.com/embed/3Isrio8vIP8
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: DOM API
-- Type: Coding
 
 ### Content
 
@@ -1198,19 +871,7 @@ failed running test suite Hello world on test case input is as expected with err
 
 ## 29. Throttle II
 
-- Source Number: 29
-- Slug: `throttle-ii`
-- Date: `2024-03-12T01:08:34`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook, Google, Zillow, Microsoft, Snap
-- Category: Array
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1230,19 +891,7 @@ failed running test suite Hello world on test case input is as expected with err
 
 ## 30. Tic Tac Toe
 
-- Source Number: 30
-- Slug: `tic-tac-toe`
-- Date: `2024-03-16T21:41:03`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Atlassian
-- Category: App Design
-- Type: React
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1267,19 +916,7 @@ failed running test suite Hello world on test case input is as expected with err
 
 ## 31. Top K Words
 
-- Source Number: 31
-- Slug: `top-k-words`
-- Date: `2024-03-14T15:47:34`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Algorithmic
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -1303,19 +940,7 @@ May 15, 2023: User1 logged out.
 
 ## 32. Image Slider
 
-- Source Number: 32
-- Slug: `image-slider`
-- Date: `2024-03-16T21:50:42`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: App Design
-- Type: React
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1340,19 +965,8 @@ May 15, 2023: User1 logged out.
 
 ## 33. Virtual DOM I
 
-- Source Number: 33
-- Slug: `virtual-dom-i`
-- Date: `2024-03-14T23:46:38`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/lE0CE2N3oUg
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: DOM API
-- Type: Coding
 
 ### Content
 
@@ -1421,19 +1035,8 @@ May 15, 2023: User1 logged out.
 
 ## 34. Virtual DOM II
 
-- Source Number: 34
-- Slug: `virtual-dom-ii`
-- Date: `2024-03-15T00:02:11`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/5DIxFGFG1e4
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: DOM API
-- Type: Coding
 
 ### Content
 
@@ -1497,19 +1100,8 @@ May 15, 2023: User1 logged out.
 
 ## 35. Virtual DOM III
 
-- Source Number: 35
-- Slug: `virtual-dom-iii`
-- Date: `2024-03-15T00:27:23`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🔴 Hard
 - Video Link: https://www.youtube.com/embed/pIpYNP_lIv0
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: DOM API
-- Type: Coding
 
 ### Content
 
@@ -1547,19 +1139,8 @@ May 15, 2023: User1 logged out.
 
 ## 36. API Confirmation
 
-- Source Number: 36
-- Slug: `api-confirmation`
-- Date: `2024-03-15T17:50:10`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟢 Easy
 - Video Link: https://www.youtube.com/embed/jVk5KQvCgQc?si=DudfjRtqvFcxHaMg
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: Javascript
-- Type: Coding
 
 ### Content
 
@@ -1577,19 +1158,7 @@ May 15, 2023: User1 logged out.
 
 ## 37. API Search and Render Image
 
-- Source Number: 37
-- Slug: `api-search-and-render-image`
-- Date: `2024-03-16T22:24:43`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: App Design
-- Type: React
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1615,19 +1184,8 @@ May 15, 2023: User1 logged out.
 
 ## 38. Asynchronous Request Queue
 
-- Source Number: 38
-- Slug: `asynchronous-request-queue`
-- Date: `2024-03-15T18:00:22`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/wOmQoeiZlQw?si=YHlqvUvege5x-FXe
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Google, Robinhood
-- Category: Javascript
-- Type: Coding
 
 ### Content
 
@@ -1656,19 +1214,7 @@ May 15, 2023: User1 logged out.
 
 ## 39. Auto Suggest Search List
 
-- Source Number: 39
-- Slug: `auto-complete-search`
-- Date: `2024-03-16T17:50:13`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 2 weeks, 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: App Design
-- Type: Vanilla
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -1700,19 +1246,7 @@ May 15, 2023: User1 logged out.
 
 ## 40. Autocomplete Search List
 
-- Source Number: 40
-- Slug: `autocomplete-search-list`
-- Date: `2024-03-16T19:55:52`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: App Design
-- Type: Vanilla
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1734,19 +1268,7 @@ May 15, 2023: User1 logged out.
 
 ## 41. ClearAllIntervals()
 
-- Source Number: 41
-- Slug: `clearallintervals`
-- Date: `2024-03-15T16:56:24`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1765,19 +1287,7 @@ setInterval(func3, 10000); // All three functions are scheduled for execution af
 
 ## 42. ClearAllTimeouts()
 
-- Source Number: 42
-- Slug: `clearalltimeouts`
-- Date: `2024-03-15T16:46:25`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1796,19 +1306,7 @@ setTimeout(func3, 10000); // All three functions are set to execute after 10 sec
 
 ## 43. Compose Function
 
-- Source Number: 43
-- Slug: `compose-function`
-- Date: `2024-03-12T15:23:58`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Algorithmic
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1834,19 +1332,7 @@ setTimeout(func3, 10000); // All three functions are set to execute after 10 sec
 
 ## 44. Curry Function
 
-- Source Number: 44
-- Slug: `curry-function`
-- Date: `2024-03-12T15:10:48`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1863,19 +1349,7 @@ console.log(curriedSum(1)(2)(3)()); // Outputs: 6</code></pre>
 
 ## 45. Custom “this” Methods
 
-- Source Number: 45
-- Slug: `this-methods`
-- Date: `2024-03-12T01:24:51`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook, Amazon, Google, Robinhood, Zillow, Airbnb, OpenAI, Microsoft, Netflix, Apple, LinkedIn, Stripe, ClickUp, PayPal, Snap, Vimeo, Adobe, TikTok, Atlassian
-- Category: Array
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -1888,19 +1362,7 @@ console.log(curriedSum(1)(2)(3)()); // Outputs: 6</code></pre>
 
 ## 46. Debounce II
 
-- Source Number: 46
-- Slug: `debounce-ii`
-- Date: `2024-03-12T00:22:04`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -1918,19 +1380,7 @@ console.log(curriedSum(1)(2)(3)()); // Outputs: 6</code></pre>
 
 ## 47. Debounce III
 
-- Source Number: 47
-- Slug: `debounce-iii`
-- Date: `2024-03-12T00:52:18`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Google, Microsoft
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🔴 Hard
 
 ### Content
 
@@ -1945,19 +1395,8 @@ console.log(curriedSum(1)(2)(3)()); // Outputs: 6</code></pre>
 
 ## 48. Deep Equals
 
-- Source Number: 48
-- Slug: `deep-equals-comparison`
-- Date: `2024-03-12T00:00:47`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🔴 Hard
 - Video Link: https://www.youtube.com/embed/PUmNzgIhdPA
-- Study Plan: 2 weeks, 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Array
-- Type: Coding
 
 ### Content
 
@@ -1982,19 +1421,7 @@ deepEquals([1, 2, 3], { 0: 1, 1: 2, 2: 3 }) // false</code></pre>
 
 ## 49. Event Emitter II
 
-- Source Number: 49
-- Slug: `advanced-event-emitter-implementation-javascript`
-- Date: `2024-03-12T01:21:40`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2025,19 +1452,7 @@ console.log(sum); // Output: 7</code></pre>
 
 ## 50. Event Logger I
 
-- Source Number: 50
-- Slug: `event-logger-i`
-- Date: `2024-03-15T18:16:57`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Robinhood
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2070,19 +1485,7 @@ const logRequest = sendRequest({ event: 'UserLogin', details: 'User logged in su
 
 ## 51. Event Logger II
 
-- Source Number: 51
-- Slug: `event-logger-ii`
-- Date: `2024-03-15T19:02:45`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Robinhood
-- Category: Javascript
-- Type: Vanilla
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2108,19 +1511,7 @@ const logRequest = sendRequest({ event: 'UserLogin', details: 'User logged in su
 
 ## 52. File Navigation
 
-- Source Number: 52
-- Slug: `file-navigation-react`
-- Date: `2024-03-16T21:29:20`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Atlassian
-- Category: App Design
-- Type: React
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2161,19 +1552,7 @@ const logRequest = sendRequest({ event: 'UserLogin', details: 'User logged in su
 
 ## 53. Gym Sessions
 
-- Source Number: 53
-- Slug: `gym-sessions`
-- Date: `2024-03-08T23:27:06`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: JSON
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2206,19 +1585,7 @@ console.log(selectedSessions);
 
 ## 54. Flatten III
 
-- Source Number: 54
-- Slug: `flatten-nested-objects-with-prefixes-javascript`
-- Date: `2024-03-08T20:40:17`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Robinhood, Stripe, Snap
-- Category: Objects
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2240,19 +1607,8 @@ Output: { "x.y": 10, "x.z.w": 20 }
 
 ## 55. Flatten IV
 
-- Source Number: 55
-- Slug: `flatten-nested-objects`
-- Date: `2024-03-10T23:40:24`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟢 Easy
 - Video Link: https://www.youtube.com/embed/uOtTZqTtOMI
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook, Amazon, Google, Netflix, LinkedIn, ClickUp, TikTok
-- Category: Objects
-- Type: Coding
 
 ### Content
 
@@ -2272,19 +1628,7 @@ Output: { "x.y": 10, "x.z.w": 20 }
 
 ## 56. Flatten V
 
-- Source Number: 56
-- Slug: `flatten-nested-objects-2`
-- Date: `2024-03-10T23:53:38`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook, Amazon, Google, Microsoft, Netflix, LinkedIn, Snap
-- Category: Objects
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -2349,19 +1693,7 @@ Output: { "x.y": 10, "x.z.w": 20 }
 
 ## 57. Flatten VI
 
-- Source Number: 57
-- Slug: `flatten-vi`
-- Date: `2024-03-11T16:33:02`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Atlassian
-- Category: Array
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2411,19 +1743,8 @@ Output: { "x.y": 10, "x.z.w": 20 }
 
 ## 58. Flatten VII
 
-- Source Number: 58
-- Slug: `flatten-vii`
-- Date: `2024-03-11T17:09:14`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🔴 Hard
 - Video Link: https://www.youtube.com/embed/Kt7V9-ls-38
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook, Amazon, Google, Airbnb, Netflix, Apple, Vimeo, Adobe
-- Category: Array
-- Type: Coding
 
 ### Content
 
@@ -2444,19 +1765,7 @@ Output: { "x.y": 10, "x.z.w": 20 }
 
 ## 59. Flatten XI
 
-- Source Number: 59
-- Slug: `flatten-xi`
-- Date: `2024-03-14T15:36:27`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: Algorithmic
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2472,19 +1781,8 @@ Output: { "x.y": 10, "x.z.w": 20 }
 
 ## 60. getElementsByClassName
 
-- Source Number: 60
-- Slug: `getelementsbyclassname`
-- Date: `2024-03-15T23:23:30`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
+- Difficulty: 🟠 Medium
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2024/03/FrontendLead-38.png
-- Company: Facebook
-- Category: DOM API
-- Type: Coding
 
 ### Content
 
@@ -2515,19 +1813,7 @@ const itemsWithActiveClass = getElementsByClassName('active', rootElement);
 
 ## 61. Hierarchical Checkbox
 
-- Source Number: 61
-- Slug: `hierarchical-checkbox`
-- Date: `2024-03-16T21:01:07`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: App Design
-- Type: Vanilla
+- Difficulty: 🔴 Hard
 
 ### Content
 
@@ -2576,19 +1862,7 @@ const itemsWithActiveClass = getElementsByClassName('active', rootElement);
 
 ## 62. Tabs
 
-- Source Number: 62
-- Slug: `tabs`
-- Date: `2024-03-16T22:15:34`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Airbnb
-- Category: App Design
-- Type: React
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -2601,19 +1875,7 @@ const itemsWithActiveClass = getElementsByClassName('active', rootElement);
 
 ## 63. Infinite Scrolling News Feed
 
-- Source Number: 63
-- Slug: `build-infinite-scrolling-newsfeed`
-- Date: `2024-03-16T20:33:19`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Javascript
-- Type: Vanilla
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2641,19 +1903,7 @@ const itemsWithActiveClass = getElementsByClassName('active', rootElement);
 
 ## 64. K MostText Nodes
 
-- Source Number: 64
-- Slug: `k-most-text-nodes`
-- Date: `2024-03-14T23:21:10`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: DOM API
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -2682,19 +1932,7 @@ const itemsWithActiveClass = getElementsByClassName('active', rootElement);
 
 ## 65. Memoize II
 
-- Source Number: 65
-- Slug: `memoize-ii`
-- Date: `2024-03-14T15:24:58`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🔴 Hard
 
 ### Content
 
@@ -2714,19 +1952,7 @@ const itemsWithActiveClass = getElementsByClassName('active', rootElement);
 
 ## 66. Promise Methods
 
-- Source Number: 66
-- Slug: `promise-methods`
-- Date: `2024-03-14T15:06:25`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook, LinkedIn, ClickUp
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -2750,19 +1976,7 @@ const itemsWithActiveClass = getElementsByClassName('active', rootElement);
 
 ## 67. querySelectorAll
 
-- Source Number: 67
-- Slug: `build-your-own-queryselectorall-javascript-guide`
-- Date: `2024-03-10T17:22:45`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2812,19 +2026,7 @@ const divsInContainer = querySelectorAll('div', container);</code></pre>
 
 ## 68. Rate Limiter
 
-- Source Number: 68
-- Slug: `rate-limiter`
-- Date: `2024-03-15T17:41:45`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Google
-- Category: Algorithmic
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2842,19 +2044,8 @@ const divsInContainer = querySelectorAll('div', container);</code></pre>
 
 ## 69. Animate Element To The Right
 
-- Source Number: 69
-- Slug: `request-animation-frame`
-- Date: `2024-03-15T16:01:25`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/Ko9J4T8MY-M
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
 
 ### Content
 
@@ -2874,19 +2065,7 @@ const divsInContainer = querySelectorAll('div', container);</code></pre>
 
 ## 70. RxJS Observable
 
-- Source Number: 70
-- Slug: `javascript-observables-reactive-programming-guide`
-- Date: `2024-03-12T15:32:38`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2943,19 +2122,7 @@ const divsInContainer = querySelectorAll('div', container);</code></pre>
 
 ## 71. Set Interval with Linear Delay
 
-- Source Number: 71
-- Slug: `set-interval-with-linear-delay`
-- Date: `2024-03-15T17:04:47`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: DOM API
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -2986,19 +2153,7 @@ const id = mySetInterval(func, 100, 200);
 
 ## 72. Stream
 
-- Source Number: 72
-- Slug: `stream-subscription-service`
-- Date: `2024-03-10T17:46:01`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -3028,19 +2183,7 @@ myStream.push('Hello, world!');
 
 ## 73. String Repeater
 
-- Source Number: 73
-- Slug: `string-repeater`
-- Date: `2024-03-14T16:18:02`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Apple
-- Category: Array
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -3064,19 +2207,8 @@ myStream.push('Hello, world!');
 
 ## 74. Debounce I
 
-- Source Number: 74
-- Slug: `debounce-i`
-- Date: `2024-03-09T17:37:30`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
+- Difficulty: 🟠 Medium
 - Video Link: https://www.youtube.com/embed/6uB4a7igDP4
-- Study Plan: 2 weeks, 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook, Amazon, Google, Robinhood, Zillow, Airbnb, OpenAI, Microsoft, Netflix, Apple, LinkedIn, Stripe, ClickUp, PayPal, Snap, Vimeo, Adobe, TikTok
-- Category: Javascript
-- Type: Coding
 
 ### Content
 
@@ -3097,19 +2229,7 @@ myStream.push('Hello, world!');
 
 ## 75. To-do App
 
-- Source Number: 75
-- Slug: `todo-app`
-- Date: `2024-03-16T18:59:11`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 2 weeks, 1 month, 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook, Amazon, Google, Robinhood, Zillow, Airbnb, OpenAI, Microsoft, Netflix, Apple, LinkedIn, Stripe, ClickUp, PayPal, Snap, Vimeo, Adobe, TikTok, Atlassian
-- Category: App Design
-- Type: Vanilla
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -3160,19 +2280,7 @@ myStream.push('Hello, world!');
 
 ## 76. Transactions List
 
-- Source Number: 76
-- Slug: `transactions-list`
-- Date: `2024-03-16T23:04:10`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Stripe
-- Category: App Design
-- Type: React
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -3218,19 +2326,7 @@ function TransactionsList({ transactions }) {
 
 ## 77. Trending Stocks
 
-- Source Number: 77
-- Slug: `trending-stocks`
-- Date: `2024-03-08T18:00:04`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook, Amazon, Google, Microsoft, Netflix, Apple
-- Category: JSON
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -3254,19 +2350,7 @@ Output:
 
 ## 78. Reorder Array With New Indexes
 
-- Source Number: 78
-- Slug: `reorder-array-with-new-indexes`
-- Date: `2024-03-18T21:36:31`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Array
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -3287,19 +2371,7 @@ Output: items becomes ["b", "d", "e", "a", "c"]</code></pre>
 
 ## 79. Merge Identical API Calls
 
-- Source Number: 79
-- Slug: `merge-identical-api-calls`
-- Date: `2024-03-18T21:44:16`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -3323,19 +2395,7 @@ const response2 = await mergedGetAPI('/data', { params: { id: 123 } });  // This
 
 ## 80. Fake Timer
 
-- Source Number: 80
-- Slug: `build-fake-timer`
-- Date: `2024-03-18T21:50:07`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -3362,19 +2422,7 @@ timer.uninstall();  // Restore original functions</code></pre>
 
 ## 81. GetTextBetweenNodes
 
-- Source Number: 81
-- Slug: `get-text-between-nodes`
-- Date: `2024-03-18T21:57:53`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: DOM API
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -3394,19 +2442,7 @@ console.log(textsBetween);  // Output: Array of text snippets between node1 and 
 
 ## 82. First Bad Version
 
-- Source Number: 82
-- Slug: `first-bad-version`
-- Date: `2024-03-18T22:21:33`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Algorithmic
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -3425,19 +2461,7 @@ console.log(findFirstBad(5));  // Output: 4</code></pre>
 
 ## 83. Roman Numeral To Int
 
-- Source Number: 83
-- Slug: `roman-numeral-to-int`
-- Date: `2024-03-18T22:30:16`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Algorithmic
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -3460,19 +2484,7 @@ console.log(result);  // Output: 1994</code></pre>
 
 ## 84. Math.sqrtRoot
 
-- Source Number: 84
-- Slug: `math-sqrtroot`
-- Date: `2024-03-18T22:35:40`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Algorithmic
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -3490,19 +2502,7 @@ console.log(mySqrt(8));  // Output: 2 (since the square root of 8 is approximate
 
 ## 85. FeatureFlag
 
-- Source Number: 85
-- Slug: `build-feature-flag`
-- Date: `2024-03-18T22:51:43`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Atlassian
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟢 Easy
 
 ### Content
 
@@ -3526,19 +2526,7 @@ console.log(featureFlag.isEnabled(['feature', 'feature2']));
 
 ## 86. API Retry
 
-- Source Number: 86
-- Slug: `api-retry`
-- Date: `2024-03-18T23:01:26`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Atlassian
-- Category: Javascript
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -3567,19 +2555,7 @@ retryApiCall(fetchData, 3, 1000)
 
 ## 87. JSON.stringify
 
-- Source Number: 87
-- Slug: `build-your-own-json-stringify`
-- Date: `2024-03-20T01:00:37`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
-- Featured Image: N/A
-- Company: Snap
-- Category: Algorithmic
-- Type: Coding
+- Difficulty: 🔴 Hard
 
 ### Content
 
@@ -3617,19 +2593,7 @@ Output: 'null'
 
 ## 88. Node Store II
 
-- Source Number: 88
-- Slug: `node-store-es5-compatible`
-- Date: `2025-04-24T16:19:14`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: Facebook
-- Category: Array
-- Type: Coding
+- Difficulty: 🟠 Medium
 
 ### Content
 
@@ -3658,19 +2622,8 @@ console.log(store.get(node2)); // Expected output: 2
 
 ## 89. Build Airbnb
 
-- Source Number: 89
-- Slug: `build-airbnb-react-question`
-- Date: `2025-05-26T20:16:58`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
+- Difficulty: 🟠 Medium
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-1.15.56-PM.png
-- Company: Airbnb, OpenAI, Netflix, LinkedIn
-- Category: App Design
-- Type: React
 
 ### Content
 
@@ -3727,19 +2680,8 @@ Each product card displays:
 
 ## 90. Nested Comments I
 
-- Source Number: 90
-- Slug: `react-nested-components`
-- Date: `2025-05-26T20:23:58`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
+- Difficulty: 🟠 Medium
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-1.19.58-PM.png
-- Company: N/A
-- Category: App Design
-- Type: React
 
 ### Content
 
@@ -3829,19 +2771,8 @@ Explanation:
 
 ## 91. Nested Comments II
 
-- Source Number: 91
-- Slug: `react-nested-components-ii`
-- Date: `2025-05-26T20:30:48`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
+- Difficulty: 🟠 Medium
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-1.27.23-PM.png
-- Company: N/A
-- Category: Array
-- Type: Coding
 
 ### Content
 
@@ -3924,19 +2855,8 @@ Explanation:
 
 ## 92. Accordion
 
-- Source Number: 92
-- Slug: `react-accordian-frontend-interview`
-- Date: `2025-05-26T20:40:40`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
+- Difficulty: 🟠 Medium
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-1.37.42-PM.png
-- Company: N/A
-- Category: App Design
-- Type: React
 
 ### Content
 
@@ -3996,19 +2916,8 @@ accordionItems = [
 
 ## 93. Progress Bar
 
-- Source Number: 93
-- Slug: `progress-bar-react-interview-question`
-- Date: `2025-05-26T20:45:23`
-- Difficulty: Easy
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
+- Difficulty: 🟢 Easy
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-1.47.14-PM.png
-- Company: N/A
-- Category: App Design
-- Type: React
 
 ### Content
 
@@ -4055,19 +2964,8 @@ ProgressBar props:
 
 ## 94. Star Rating System
 
-- Source Number: 94
-- Slug: `star-rating-component-react`
-- Date: `2025-05-26T20:54:19`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
+- Difficulty: 🟠 Medium
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-1.55.57-PM-1.png
-- Company: N/A
-- Category: App Design
-- Type: React
 
 ### Content
 
@@ -4122,19 +3020,7 @@ const StarSVG = ({ filled }) =&gt; (
 
 ## 95. Emoji Selector
 
-- Source Number: 95
-- Slug: `react-emoji-selector`
-- Date: `2025-05-26T21:01:47`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 3 months, 6 months
-- Featured Image: N/A
-- Company: N/A
-- Category: App Design
-- Type: React
+- Difficulty: 🔴 Hard
 
 ### Content
 
@@ -4231,19 +3117,8 @@ const AngrySVG = ({ size }) =&gt; (
 
 ## 96. Connect Four
 
-- Source Number: 96
-- Slug: `react-connect-four`
-- Date: `2025-05-26T21:11:00`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
+- Difficulty: 🔴 Hard
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-2.16.32-PM.png
-- Company: N/A
-- Category: App Design
-- Type: React
 
 ### Content
 
@@ -4296,19 +3171,8 @@ No input props. The component manages its own state.
 
 ## 97. Data List
 
-- Source Number: 97
-- Slug: `data-list`
-- Date: `2025-05-26T21:30:12`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
+- Difficulty: 🔴 Hard
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-2.35.28-PM.png
-- Company: N/A
-- Category: App Design
-- Type: React
 
 ### Content
 
@@ -4345,19 +3209,8 @@ No input props. The component manages its own state.
 
 ## 98. Signup Form
 
-- Source Number: 98
-- Slug: `react-signup-form`
-- Date: `2025-05-26T21:39:52`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
+- Difficulty: 🟠 Medium
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-2.41.01-PM.png
-- Company: N/A
-- Category: App Design
-- Type: React
 
 ### Content
 
@@ -4395,19 +3248,8 @@ No input props. The component manages its own state.
 
 ## 99. Authentication Code
 
-- Source Number: 99
-- Slug: `authentication-code-component-react`
-- Date: `2025-05-26T21:46:25`
-- Difficulty: Medium
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
+- Difficulty: 🟠 Medium
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-2.46.45-PM.png
-- Company: N/A
-- Category: App Design
-- Type: React
 
 ### Content
 
@@ -4434,19 +3276,8 @@ No input props. The component manages its own state.
 
 ## 100. Build ChatGPT
 
-- Source Number: 100
-- Slug: `build-gpt-react`
-- Date: `2025-05-26T21:52:52`
-- Difficulty: Hard
-- Premium: Yes
-- Coming Soon: No
-- Subtitle: N/A
-- Video Link: N/A
-- Study Plan: 6 months
+- Difficulty: 🔴 Hard
 - Featured Image: https://api.frontendlead.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-2.54.27-PM.png
-- Company: OpenAI
-- Category: App Design
-- Type: React
 
 ### Content
 

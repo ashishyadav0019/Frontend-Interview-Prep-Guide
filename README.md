@@ -1,77 +1,71 @@
-# Frontend Interview Prep Guide (2-Week Plan)
+# Frontend Interview Prep Guide
 
-This folder is a structured frontend interview preparation guide with three tracks:
-- [triviaquestion.md](./triviaquestion.md) for fast concept recall
-- [pragmaticUI.md](./pragmaticUI.md) for implementation-heavy coding rounds
-- [systemdesign.md](./systemdesign.md) for architecture and senior-level discussions
+This folder is a practical prep kit for frontend interviews.  
+It is designed to help you move from concept recall to coding execution to system design discussion.
 
-## Catalog
+## Start Here
 
-| Track | GitHub Catalog | Focus | Best For | Items |
-|---|---|---|---|---:|
-| Frontend System Design | [systemdesign.md](./systemdesign.md) | Architecture, tradeoffs, scalability, performance, API/data modeling | Senior interviews, architecture rounds, discussion-heavy panels | 35 |
-| Frontend Trivia Questions | [triviaquestion.md](./triviaquestion.md) | Fast conceptual revision across JS, React, browser behavior, accessibility, testing | Screening rounds, quick revision, confidence building | 65 |
-| Pragmatic UI Problems | [pragmaticUI.md](./pragmaticUI.md) | Practical UI challenges with state, UX behavior, accessibility, edge cases | Live coding rounds, take-home prep, implementation practice | 100 |
+If your next round is:
+- Screening/fundamentals: begin with [triviaQuestion.md](./triviaQuestion.md)
+- Live coding/take-home: begin with [pragmaticUI.md](./pragmaticUI.md)
+- Architecture/system design: begin with [systemDesign.md](./systemDesign.md)
+- Stage-2 depth upgrade: use [frontend-stage2-prep-playbook.md](./frontend-stage2-prep-playbook.md)
 
+## Learning Tracks
 
-## Target Roles
+| Track | What You Practice | Typical Topics | Best For |
+|---|---|---|---|
+| [Trivia Questions](./triviaQuestion.md) | Fast recall + clean explanations | Event loop, closures, React lifecycle/hooks, CORS, rendering, accessibility | Recruiter screens and short technical rounds |
+| [Pragmatic UI Problems](./pragmaticUI.md) | Building correct UI behavior under constraints | Search/autocomplete, OTP, progress bar, data table, timers, debouncing, DOM tasks | Live coding and take-home assignments |
+| [System Design](./systemDesign.md) | Structured architecture and tradeoff thinking | Caching, SSR/CSR, API design, scaling patterns, performance, reliability | Senior/lead frontend design rounds |
+| [Stage-2 Playbook](./frontend-stage2-prep-playbook.md) | Deep interview narratives and gap closure | Web fundamentals, testing maturity, architecture operations, performance stories | Mid-to-senior loops |
+| [Video Resources](./stage2-youtube-resources.md) | Guided revision with practical walkthroughs | System design, Core Web Vitals, React optimization, mock interview style | Supplementary prep |
 
-This guide is designed for:
+## Expected Outcomes
+
+After completing this guide, you should be able to:
+- Explain frontend fundamentals with clear examples (not definitions only)
+- Solve medium-complexity UI problems within interview time
+- Discuss architecture choices with tradeoffs and constraints
+- Present performance/debug stories with measurable impact
+
+## 2-Week Execution Plan
+
+Suggested daily effort: 90 to 150 minutes
+
+### Week 1: Fundamentals + Coding Speed
+
+- Day 1: 8 trivia topics + 1 easy pragmatic problem
+- Day 2: 8 trivia topics + 1 medium pragmatic problem
+- Day 3: 6 trivia topics + 1 medium problem + review
+- Day 4: 8 trivia topics + 1 easy/medium problem
+- Day 5: 6 trivia topics + 1 medium problem + accessibility checklist
+- Day 6: 1 timed pragmatic problem (45 minutes) + postmortem notes
+- Day 7: Revisit weak topics + re-solve 1 earlier problem without notes
+
+### Week 2: Architecture + Mock Rounds
+
+- Day 8: 2 system design topics + 4 trivia topics
+- Day 9: 2 system design topics + 1 medium/hard pragmatic problem
+- Day 10: 2 system design topics + 4 trivia topics
+- Day 11: 1 full timed mock coding round
+- Day 12: 2 system design topics + tradeoff notes
+- Day 13: 1 mixed mock session (trivia + coding + design)
+- Day 14: Final consolidation and interview answer prep
+
+## Session Template (Use Daily)
+
+1. Warm-up (15 min): 3 trivia topics
+2. Core (45 to 75 min): 1 pragmatic problem or 1 system design topic
+3. Review (15 min): write edge cases, tradeoffs, and what failed
+
+## Role Fit
+
+This prep stack is useful for:
 - Frontend Developer (Junior to Mid)
 - Frontend Engineer (Mid to Senior)
 - Senior Frontend Engineer
 - Lead Frontend Engineer / Frontend Architect
 - UI Engineer / Design Systems Engineer
 - React Engineer
-- Full-Stack Engineer in frontend-focused interview loops
-
-## How To Use The 3 Tracks
-
-- [triviaquestion.md](./triviaquestion.md): strengthen fundamentals and interview articulation (JS, React, browser, accessibility, testing).
-- [pragmaticUI.md](./pragmaticUI.md): practice building components with real constraints (state, UX behavior, accessibility, edge cases).
-- [systemdesign.md](./systemdesign.md): develop system-level reasoning (requirements, data flow, performance, tradeoffs, scalability).
-
-## 2-Week Preparation Plan
-
-Time per day: 90 to 150 minutes
-
-### Week 1: Fundamentals + Implementation Base
-
-1. Day 1: 8 trivia topics + 1 easy pragmatic problem
-2. Day 2: 8 trivia topics + 1 medium pragmatic problem
-3. Day 3: 6 trivia topics + 1 medium pragmatic problem + solution review
-4. Day 4: 8 trivia topics + 1 easy-to-medium pragmatic problem
-5. Day 5: 6 trivia topics + 1 medium pragmatic problem + accessibility checklist
-6. Day 6: 1 timed pragmatic problem (45 minutes) + postmortem notes
-7. Day 7: Week review: revisit weak trivia topics and re-solve 1 earlier pragmatic problem without notes
-
-### Week 2: Design + Simulation
-
-1. Day 8: 2 system design topics + 4 trivia topics
-2. Day 9: 2 system design topics + 1 medium/hard pragmatic problem
-3. Day 10: 2 system design topics + 4 trivia topics
-4. Day 11: 1 full mock coding round using a pragmatic problem (timed)
-5. Day 12: 2 system design topics + design tradeoff summary notes
-6. Day 13: 1 mixed mock session: 3 trivia + 1 pragmatic + 1 design discussion
-7. Day 14: Final consolidation: revise mistakes, build quick notes, and prepare interview-ready answers
-
-## Daily Session Template
-
-1. Warm-up (15 min): 3 trivia topics
-2. Core (45 to 75 min): 1 pragmatic problem or 1 system design topic
-3. Wrap-up (15 min): write key learnings, edge cases, and tradeoffs
-
-## What Good Progress Looks Like
-
-By the end of 2 weeks, you should be able to:
-- Explain core frontend concepts clearly without rambling
-- Build medium-complexity UI components under time pressure
-- Discuss architecture decisions with tradeoffs and scalability in mind
-- Handle accessibility and performance considerations proactively
-
-## Practical Tips For GitHub Reading
-
-- Use the table of contents in each file to jump directly to topics.
-- Work in small batches (3 to 5 items) and summarize in your own words.
-- For pragmatic problems, always do one timed attempt before reading any reference notes.
-- Track mistakes in a single “weak areas” list and revisit every 3 days.
+- Full-Stack Engineer (frontend-heavy loops)

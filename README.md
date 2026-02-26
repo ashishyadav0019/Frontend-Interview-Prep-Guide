@@ -5,6 +5,15 @@ This folder is a structured frontend interview preparation guide with three trac
 - [pragmaticUI.md](./pragmaticUI.md) for implementation-heavy coding rounds
 - [systemdesign.md](./systemdesign.md) for architecture and senior-level discussions
 
+## Catalog
+
+| Track | GitHub Catalog | Focus | Best For | Items |
+|---|---|---|---|---:|
+| Frontend System Design | [systemdesign.md](./systemdesign.md) | Architecture, tradeoffs, scalability, performance, API/data modeling | Senior interviews, architecture rounds, discussion-heavy panels | 35 |
+| Frontend Trivia Questions | [triviaquestion.md](./triviaquestion.md) | Fast conceptual revision across JS, React, browser behavior, accessibility, testing | Screening rounds, quick revision, confidence building | 65 |
+| Pragmatic UI Problems | [pragmaticUI.md](./pragmaticUI.md) | Practical UI challenges with state, UX behavior, accessibility, edge cases | Live coding rounds, take-home prep, implementation practice | 100 |
+
+
 ## Target Roles
 
 This guide is designed for:

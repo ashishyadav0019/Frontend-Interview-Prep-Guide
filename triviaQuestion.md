@@ -1,5 +1,5 @@
 # Trivia Questions Catalog
-- Total items: **65**
+- Total items: **66**
 
 ## Table of Contents
 
@@ -68,6 +68,7 @@
 - [63. What is Semantic markup in frontend?](#63-what-is-semantic-markup-in-frontend)
 - [64. Object.create vs new](#64-objectcreate-vs-new)
 - [65. Array Slice vs Splice](#65-array-slice-vs-splice)
+- [66. CSR vs SSR]
 
 ---
 
@@ -2975,3 +2976,89 @@ console.log(fruits); // ['apple', 'kiwi', 'mango', 'date']</code></pre>
 <p>Use <code>slice()</code> When you want to extract without altering the variety. Use <code>splice()</code> when you need to modify the original array directly.</p>
 </article>
 
+---
+
+## 66. CSR vs SSR
+- Difficulty: 🟠 Medium
+
+### Content
+---
+#### 🔵 Q1: What is CSR?
+
+**Answer:**
+
+Client-Side Rendering (CSR) is a rendering approach where the server sends a minimal HTML shell and a JavaScript bundle. The browser downloads the JS, fetches data from APIs, and renders the UI dynamically. Rendering cost is shifted to the client, making it suitable for authenticated dashboards and highly interactive applications where SEO is not critical.
+
+---
+
+#### 🟢 Q2: What is SSR?
+
+**Answer:**
+
+Server-Side Rendering (SSR) generates fully rendered HTML on the server for each request and sends it to the browser. This improves initial content visibility, SEO, and perceived performance because meaningful content is available immediately without waiting for JavaScript execution.
+
+---
+
+#### ⚖️ Q3: What are the trade-offs between CSR and SSR?
+
+**Answer:**
+
+CSR reduces server load and works well for personalized or interactive apps but delays content visibility until JavaScript loads. SSR improves SEO and first paint but increases server cost and TTFB. Additionally, SSR still requires hydration on the client, which can impact performance for large applications. In practice, a hybrid model is often preferred.
+
+---
+
+#### 💧 Q4: What is hydration in SSR?
+
+**Answer:**
+
+Hydration is the process where React attaches event listeners and rebuilds the virtual DOM on top of server-rendered HTML to make the page interactive. Although SSR improves initial paint, hydration requires downloading and executing JavaScript, which can block the main thread and delay Time to Interactive.
+
+---
+
+#### 🚀 Q5: How does hydration impact performance?
+
+**Answer:**
+
+Hydration increases JavaScript execution cost because React reconstructs the component tree and binds event listeners. In large applications, this can block the main thread, increase memory usage, and delay interactivity. Hydration mismatches can also cause re-renders, further affecting performance.
+
+---
+
+#### 🧩 Q6: How can we reduce hydration cost?
+
+**Answer:**
+
+Hydration cost can be reduced by minimizing the initial JavaScript payload through route-based code splitting, dynamic imports, and lazy loading non-critical components. Reducing the initial component tree size and deferring heavy computations also helps. Selective or partial hydration strategies further limit the amount of work done on initial load.
+
+---
+
+#### 🌍 Q7: How would you decide rendering strategy for a hotel search page?
+
+**Answer:**
+
+For a hotel search page, I would use SSR for the initial results because it is SEO-critical and publicly accessible. This ensures crawlable content and faster perceived load time. Filters, sorting, and personalization can be handled client-side to avoid re-rendering the entire page on the server. A hybrid approach balances performance and infrastructure cost.
+
+---
+
+#### 🔐 Q8: If search results are personalized, does SSR still make sense?
+
+**Answer:**
+
+Yes, SSR still makes sense for base content because most users searching the same query will see largely similar results. I would cache only the public, non-user-specific HTML and apply personalization client-side through additional API calls. This prevents cache contamination while maintaining performance.
+
+---
+
+#### 🧱 Q9: How do you prevent serving personalized content to the wrong user when caching SSR?
+
+**Answer:**
+
+I avoid caching fully personalized HTML at the CDN layer. Instead, I cache only public content and fetch personalized data via private APIs after page load. If needed, controlled cache variation can be applied, but varying cache by user-specific headers reduces efficiency and should be used carefully.
+
+---
+
+#### 📦 Q10: When is SSG better than SSR?
+
+**Answer:**
+
+Static Site Generation (SSG) is better when content changes infrequently and can be pre-rendered at build time, such as popular destination pages. It reduces server cost and improves performance because pages are served directly from CDN. For highly dynamic content, SSR or hybrid rendering is more appropriate.
+
+---

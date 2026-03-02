@@ -68,7 +68,7 @@
 - [63. What is Semantic markup in frontend?](#63-what-is-semantic-markup-in-frontend)
 - [64. Object.create vs new](#64-objectcreate-vs-new)
 - [65. Array Slice vs Splice](#65-array-slice-vs-splice)
-- [66. CSR vs SSR]
+- [66. CSR vs SSR](#66-csr-vs-ssr)
 
 ---
 

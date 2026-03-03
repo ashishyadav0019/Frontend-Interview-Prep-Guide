@@ -657,37 +657,6 @@ Rollback plan defined before deployment.
 
 ---
 
-# 6.6 How to Answer Architecture Questions (Staff Template)
-
-When asked to design something:
-
-1. Clarify requirements.
-2. Define constraints.
-3. Propose high-level architecture.
-4. Deep dive into one complex subsystem.
-5. Discuss tradeoffs.
-6. Model failure scenarios.
-7. Explain monitoring strategy.
-8. Explain scaling evolution.
-
-Never jump directly to tools.
-
----
-
-# Staff-Level Outcome
-
-After incorporating this section, you should be able to:
-
-- Defend architectural decisions clearly.
-- Model system failures proactively.
-- Design frontend systems for multi-team scale.
-- Define measurable performance contracts.
-- Speak confidently at Staff / Principal interview level.
-
----
-
----
-
 # 7️⃣ Security & Integrity
 
 - HTTP-only cookies for auth
